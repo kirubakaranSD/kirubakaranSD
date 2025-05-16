@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @kirubakaranSD
-- 👀 I’m interested in Frontend Developer...
-- 🌱 I’m currently learning My Btech in Computer Science and Engineering ...
-- 💞️ I’m looking to working for Freelancer  ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👨‍💻 Kirubakaran | B.Tech CSE (2022–2026)
+🎓 Bharath Institute of Higher Education and Research, Chennai
+🎖️ NCC 'B' & 'C' Certificate Holder
 
-<!---
-kirubakaranSD/kirubakaranSD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Skills:
+Frontend: HTML, CSS, JavaScript
+Backend: Java, SQL
+Tools: VS Code
+
+🔭 Passionate about building web applications, learning new technologies, and serving with discipline and dedication through NCC experience.
+📫 Let's connect and collaborate on exciting tech projects!
